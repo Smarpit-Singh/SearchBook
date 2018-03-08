@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Search Book</string>
+    <string name="title_activity_main2">Book Finder</string>
+    <string name="tab_text_1">Search</string>
+    <string name="tab_text_2">Saved</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+
+    <string name="description_org_url">"https://www.googleapis.com/books/v1/volumes/"</string>
+    <string name="book_listing_url">"https://www.googleapis.com/books/v1/volumes?q="</string>
+
+    <string name="empty_string">"Search a book !!!"</string>
+    <string name="toolbar_title">"Book Finder"</string>
+
+    <string name="max_result">"&amp;maxResults=40"</string>
+
+</resources>
